@@ -1,5 +1,7 @@
 # Ayuntamiento_Cuenca_Open_Data 📚💾
 
+#OpenDataAyuntamientoCuenca #DatosAbiertosAyuntamientoCuenca
+
 #### Making Ayuntamiento de Cuenca open data
 
 In this repository you can find a collection of resources that allow you to access and consult different public datasets of the "Ayuntamiento de Cuenca".
