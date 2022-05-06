@@ -1,0 +1,108 @@
+Clase,TipoTraccion,Marca,Modelo,Matricula,TituloAdquisicion,Destino,CostoAdquisicion,FechaMatriculacion,Antiguedad
+Turismo,Tracción mecánica (combustión),Audi,A6 2.8 Quatro,5865-CGW,Desconocido,Parque Móvil de la Alcaldía,Desconocido,21/4/1999,22
+Turismo,Tracción mecánica (combustión),Renault,Laguna 2.0 Dci Dynamique To,5609-GVR,Desconocido,Parque Móvil de la Alcaldía,Desconocido,14/4/2010,11
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X 9 250,4189-DTH,Desconocido,Protocolo,Desconocido,12/12/2005,16
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X 9 125,4158-DTH,Desconocido,Protocolo,Desconocido,12/12/2005,16
+Motocicleta,Tracción mecánica (combustión),Suzuki,Burgman 200,6088-GWG,Desconocido,Protocolo,Desconocido,10/5/2010,11
+Camión,Tracción mecánica (combustión),Man,8163 Lc,CU-9495-J,Desconocido,Servicio Municipal de Bomberos,Desconocido,17/6/1999,22
+Camión,Tracción mecánica (combustión),Pegaso,Autobomba 1090,CU-8780-A,Desconocido,Servicio Municipal de Bomberos,Desconocido,29/8/1975,46
+Camión,Tracción mecánica (combustión),Renault,Dg 330T 19 Tm,CU-50632-VE,Desconocido,Servicio Municipal de Bomberos,Desconocido,11/1/1991,30
+Camión,Tracción mecánica (combustión),Renault,G230.20 20 Tm,CU-2154-H,Desconocido,Servicio Municipal de Bomberos,Desconocido,12/3/1993,28
+Camión,Tracción mecánica (combustión),Iveco,Ml 180 E 27,2559-CXH,Desconocido,Servicio Municipal de Bomberos,Desconocido,21/6/2004,17
+Camión,Tracción mecánica (combustión),Mercedes,Benz 1529 Af,7918-GBC,Desconocido,Servicio Municipal de Bomberos,Desconocido,20/2/2008,13
+Todo Terreno,Tracción mecánica (combustión),Toyota,Land Cruiser D-4D,4710-FLB,Desconocido,Servicio Municipal de Bomberos,Desconocido,5/2/2007,14
+Camión,Tracción mecánica (combustión),Toyota,Hilux,1086-FWY,Desconocido,Servicio Municipal de Bomberos,Desconocido,30/10/2007,14
+Camión,Tracción mecánica (combustión),Toyota,Hi-2P,2041-FSS,Desconocido,Servicio Municipal de Bomberos,Desconocido,10/7/2007,14
+Todo Terreno,Tracción mecánica (combustión),Nissan,Pick Up 2.5 Tdi Chasis,CU-0424-K,Desconocido,Protección Civil,Desconocido,30/7/1999,22
+Turismo,Tracción mecánica (combustión),Suzuki,Sj 410 Ht,CU-5299-D,Desconocido,Protección Civil,Desconocido,30/8/1985,36
+Furgón,Tracción mecánica (combustión),Volkswagen,Kombi 1.9 D 5 V,CU-6795-H,Desconocido,Protección Civil,Desconocido,3/6/1994,27
+Furgoneta,Tracción mecánica (combustión),Renault,Master Fg,3130-BPY,Desconocido,Protección Civil,Desconocido,3/12/2001,20
+Furgoneta,Tracción mecánica (combustión),Citroën,C-15 Top Familiar,7011-BBD,Desconocido,Servicio de Medioambiente (Brigada M. Ambiente de Limpieza),Desconocido,29/9/2000,21
+Camión,Tracción mecánica (combustión),Iveco,Ml 30 E 23,CU-5190-J,Desconocido,Servicio de Medioambiente (Brigada M. Ambiente de Limpieza),Desconocido,16/10/1998,23
+Furgoneta,Tracción mecánica (combustión),Piaggio,Porter 1.9D Chasis Cabina 2P,1387-DSY,Desconocido,Servicio de Medioambiente (Brigada M. Ambiente de Limpieza),Desconocido,29/11/2005,16
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,5420-DPF,Desconocido,Servicio de Medioambiente (Subcapataz de Medioambiente),Desconocido,25/8/2005,16
+Furgón,Tracción mecánica (combustión),Mitsubishi,L-200,9978-CHL,Desconocido,Servicio de Medioambiente (Parques y Jardines),Desconocido,14/5/2003,18
+Dumper,Tracción mecánica (combustión),Ausa,1503,CU-57481-VE,Desconocido,Servicio de Medioambiente (Parques y Jardines),Desconocido,15/12/1998,23
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,5426-DPF,Desconocido,Servicio de Medioambiente (Parques y Jardines),Desconocido,25/8/2005,16
+Todo Terreno,Tracción mecánica (combustión),Land-Rover,Defender 90 2.2 T,CU-6273-G,Desconocido,Instituto Municipal de Deportes (I.M.D.),Desconocido,10/1/1992,29
+Camión,Tracción mecánica (combustión),Ausa,Dumper Multitrans Dv,CU-54478-VE,Desconocido,Instituto Municipal de Deportes (I.M.D.),Desconocido,2/7/1996,25
+Motocultor,Tracción mecánica (combustión),Pacuali,996,MU-31441-VE,Desconocido,Instituto Municipal de Deportes (I.M.D.),Desconocido,1/10/1978,43
+Semi-remolque,Tracción mecánica (combustión),Horizonte,Pch-2000-1,CU-00863-R,Desconocido,Instituto Municipal de Deportes (I.M.D.),Desconocido,26/9/1989,32
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,7882-DPR,Desconocido,Gerencia Municipal de Urbanismo (G.M.U.),Desconocido,14/9/2005,16
+Motocicleta,Tracción mecánica (combustión),Suzuki,Burgman 200,9528-GJW,Desconocido,Gerencia Municipal de Urbanismo (G.M.U.),Desconocido,5/12/2008,13
+Todo Terreno,Tracción mecánica (combustión),Nissan,Np 300 4X4 2.5 Ddti,3197-GLS,Desconocido,Montes (cedido a Ayuntamiento de Cuenca Maderas. S.A.),Desconocido,3/4/2009,12
+Dumper,Tracción mecánica (combustión),Ausa-Mustang,Pala Minicargadora 20,CU-54477-VE,Desconocido,Servicio Municipal de Obras,Desconocido,2/7/1996,25
+Minicargadora,Tracción mecánica (combustión),Ausa-Mustang,Pala Minicargadora 20,CU-54479-VE,Desconocido,Servicio Municipal de Obras,Desconocido,2/7/1996,25
+Camión,Tracción mecánica (combustión),Nissan,M-11. 14,CU-5208-I,Desconocido,Servicio Municipal de Obras,Desconocido,9/9/1996,25
+Camión,Tracción mecánica (combustión),Renault,Dg 220.2020 Tm,CU-8526-F,Desconocido,Servicio Municipal de Obras,Desconocido,13/7/1990,31
+Turismo,Tracción mecánica (combustión),Opel,Corsa 1.4 Gl,CU-5921-G,Desconocido,Servicio Municipal de Obras,Desconocido,11/12/1991,30
+Camión,Tracción mecánica (combustión),Iveco,Ml 120 E 18,2264-BRV,Desconocido,Servicio Municipal de Obras,Desconocido,17/1/2002,19
+Dumper,Tracción mecánica (combustión),Ausa,Dv 17,E-8393-BBV,Desconocido,Servicio Municipal de Obras,Desconocido,14/1/2002,19
+Furgón-Todo Terreno,Tracción mecánica (combustión),Mitsubishi,L 200,3322-BRJ,Desconocido,Servicio Municipal de Obras,Desconocido,20/12/2001,20
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,4659-CCV,Desconocido,Servicio Municipal de Obras,Desconocido,20/12/2002,19
+Dumper,Tracción mecánica (combustión),Ausa-Mustang,Dv 17,E-1050-BCD,Desconocido,Servicio Municipal de Obras,Desconocido,7/1/2003,18
+Furgoneta,Tracción mecánica (combustión),Nissan,Prismastar 1.9 Dci 3098/7780 Co,2471-FKK,Desconocido,Servicio Municipal de Obras,Desconocido,12/1/2007,14
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,6158-FMZ,Desconocido,Servicio Municipal de Obras,Desconocido,30/3/2007,14
+Furgoneta,Tracción mecánica (combustión),Renault,Kangoo 1.9,0716-DFC,Desconocido,Servicio Municipal de Obras,Desconocido,29/12/2004,17
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D  Combi,2233-DLZ,Desconocido,Servicio Municipal de Obras,Desconocido,23/6/2005,16
+Todo Terreno,Tracción mecánica (combustión),Land-Rover,Defender 90 2.5 T,CU-4757-I,Desconocido,Servicio Municipal de Obras (Vehículo usos varios),Desconocido,18/7/1996,25
+Todo Terreno,Tracción mecánica (combustión),Mitsubishi,L-200 2.5 Tdi Jac,CU-2943-K,Desconocido,Servicio Municipal de Tráfico y Equipamiento Urbano,Desconocido,30/12/1999,22
+Furgón,Tracción mecánica (combustión),Peugeot,Boxer 1.8 350 L Td C,CU-4205-K,Desconocido,Servicio Municipal de Tráfico y Equipamiento Urbano,Desconocido,14/3/2000,21
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X8 125,4425-FGV,Desconocido,Agentes de Movilidad,Desconocido,24/10/2006,15
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X8 125,4471- FGV,Desconocido,Agentes de Movilidad,Desconocido,24/10/2006,15
+Turismo,Tracción mecánica (combustión),Citroën,Jumpy 2.0,1601-DCL,Desconocido,Agentes de Movilidad,Desconocido,8/11/2004,17
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X9 500 4T,1294-CZL,Desconocido,Policía Local,Desconocido,25/8/2004,17
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X9 500 4T,1308-CZL,Desconocido,Policía Local,Desconocido,25/8/2004,17
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X-9 500,1120-DRV,Desconocido,Policía Local,Desconocido,24/10/2005,16
+Motocicleta,Tracción mecánica (combustión),Piaggio,Vespa X-9 500,1153-DRV,Desconocido,Policía Local,Desconocido,24/10/2005,16
+Todo Terreno,Tracción mecánica (combustión),Toyota,Land Cruiser La Hdj,2312-FYD,Desconocido,Policía Local,Desconocido,10/12/2007,14
+Turismo,Tracción mecánica (combustión),Ford,Fiesta 1.4 Tdci Ambiente,7440-DZD,Desconocido,Policía Local,Desconocido,8/5/2006,15
+Todo Terreno,Tracción mecánica (combustión),Nissan,Patrol Gr. 3.0 Di Td Confort 5P,2591-BMF,Desconocido,Policía Local,Desconocido,13/8/2001,20
+Turismo,Tracción mecánica (combustión),Seat,Altea Xl,4152-FVX,Desconocido,Policía Local,Desconocido,26/9/2007,14
+Turismo,Tracción mecánica (combustión),Citroën,C4,9846-GDZ,Desconocido,Policía Local,Desconocido,29/5/2008,13
+Turismo,Tracción mecánica (combustión),Opel,Corsa,6157-FLJ,Desconocido,Policía Local,Desconocido,15/2/2007,14
+Motocicleta,Tracción mecánica (combustión),Suzuki,Burgman V-125,5806-DNY,Desconocido,Policía Local (SE ADJUDICA AL SERV. OBRAS),Desconocido,11/8/2005,16
+Furgoneta,Tracción mecánica (combustión),Citroën,C-15 D Top,2024-BWG,Desconocido,Lacero,Desconocido,20/5/2002,19
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D,5405-DPF,Desconocido,Servicio Eléctrico,Desconocido,25/8/2005,16
+Furgoneta,Tracción mecánica (combustión),Opel,Combo 1.7 DI VAN,9434-CJX,Desconocido,Servicio Eléctrico,Desconocido,27/6/2003,18
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo HDI 75 X,5454-GMB,Desconocido,Servicio Eléctrico,Desconocido,30/4/2009,12
+Furgoneta,Tracción mecánica (combustión),Citroën,Berlingo 1.9 D COMBI,1982-DLZ,Desconocido,Servicio Eléctrico,Desconocido,23/6/2005,16
+Bicicletas (48),Desconocido,,Desconocido,B,Desconocido,Sin Destino,Desconocido,Desconocida,Desconocida
+Motocicleta,Tracción mecánica (combustión),Yamaha,DG20/1/1. WR250,1075-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Motocicleta,Tracción mecánica (combustión),Suzuki,WC80/1/2. UH125,1136-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Motocicleta,Tracción mecánica (combustión),Rieju,DG20/I/I. Tango 125,1227-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Motocicleta,Tracción mecánica (combustión),Suzuki,WC80/1/2. UH125,1337-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Motocicleta,Tracción mecánica (combustión),Rieju,TGE4/0/0. Tango 125,3056-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Motocicleta,Tracción mecánica (combustión),Yamaha,DG20/0/0. WR250,3210-KGK,Desconocido,Policía Local,Desconocido,28/12/2017,4
+Camión,Tracción mecánica (combustión),Mercedes-Benz,Unimog,0536-HGM,Acuerdo JGL 9/04/2018,Bomberos y Protección Civil,Desconocido,9/4/2018,3
+Furgoneta,Tracción mecánica (combustión),Opel,Combo VAN,6581-KJP,Desconocido,Instituto Municipal de Deportes (I.M.D.),Desconocido,27/3/2018,3
+Turismo,Tracción mecánica (combustión),Renault,Megane Scenic,4717-HMP,Decreto nº2018006353,Agentes de Movilidad,Desconocido,19/10/2012,9
+Turismo,Tracción mecánica (combustión),Citroën,C4,1680-HLP,Decreto nº2018006353,Agentes de Movilidad,Desconocido,16/7/2012,9
+Camión,Tracción mecánica (combustión),Mercedes-Benz,U400,3510-FKL,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,4669.37,16/1/2007,14
+Cuatriciclo,Tracción mecánica (eléctrica),Mega,Fourgon,5633-FLH,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,500,14/2/2007,14
+Cuatriciclo,Tracción mecánica (eléctrica),Mega,Fourgon,5670-FLH,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,500,14/2/2007,14
+Camión,Tracción mecánica (combustión),Iveco,35S12,8117-FWH,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,3894.54,8/10/2007,14
+Furgoneta,Tracción mecánica (combustión),Nissan,Interstar,8565-FJF,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,3441.23,4/12/2006,15
+Camión,Tracción mecánica (combustión),Iveco,ML150E22,8885-FKD,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,4/1/2007,14
+Barredora,Tracción mecánica (combustión),Scarab,Minor,E-6883-BDV,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,12/1/2007,14
+Barredora,Tracción mecánica (combustión),Scarab,Minor,E-6884-BDV,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,12/1/2007,14
+Barredora,Tracción mecánica (combustión),Schmidt,Swingo 100,E-7509-BDV,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,16/1/2007,14
+Vehículo especial,Tracción mecánica (combustión),Kramer,CMAR,E-9723-BDV,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,2496,26/1/2007,14
+Camión,Tracción mecánica (combustión),Toyota,Desconocido,1226-GMT,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,4220.66,9/6/2009,12
+Volquete,Tracción mecánica (combustión),Piaggio,Porter Diesel,1720-BEB,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,10/5/2002,19
+Camión,Tracción mecánica (combustión),Renault,Kangoo 1.5,1765-GLZ,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,3558.89,28/4/2009,12
+Camión,Tracción mecánica (combustión),Renault,Kangoo 1.5,1879-GLZ,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,2635.11,28/4/2009,12
+Furgoneta,Tracción mecánica (combustión),Piaggio,Porter,5490-CBB,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1000,11/10/2002,19
+Camión,Tracción mecánica (combustión),Piaggio,Porter,7262-BZY,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1000,8/10/2002,19
+Camión,Tracción mecánica (eléctrica),Piaggio,Porter,7704-GPK,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,500,4/9/2009,12
+Camión,Tracción mecánica (combustión),Mercedes-Benz,1518,8293-GNP,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1500,21/7/2009,12
+Camión,Tracción mecánica (combustión),Mercedes-Benz,1318KLO,8369-GNP,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,4883.38,21/7/2009,12
+Furgoneta,Tracción mecánica (combustión),Piaggio,Porter,CU-1209-J,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1000,15/1/1998,23
+Furgoneta,Tracción mecánica (combustión),Piaggio,Porter,CU-1210-J,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1000,15/1/1998,23
+Vehículo especial,Tracción mecánica (combustión),Marca-Desconocida,ECOLOGICA SV.1.1 BARREDORA,E-3626-BFM,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,3648,6/4/2009,12
+Vehículo especial,Tracción mecánica (combustión),Schmidt,S4D1P,E-5998-BFM,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,3648,29/4/2009,12
+Vehículo especial,Tracción mecánica (combustión),Ravo,340 CD,E-6118-BCB,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,1920,8/10/2002,19
+Vehículo especial,Tracción mecánica (combustión),Renault,Express 1.9 D,M-7923-VF,Acuerdo JGL 22/10/2018,FCC- Concesionaria Servicio Limpieza y Recogida de residuos,2111.8,7/11/1997,24
+Todo Terreno,Tracción mecánica (combustión),Ford,Kuga,9503-HBC,Acuerdo JGL 04/03/2019,Policía Local,9000,30/11/2011,10
+Todo Terreno,Tracción mecánica (combustión),Ford,Kuga,8815-HHG,Acuerdo JGL 04/03/2019,Policía Local,13000,28/12/2010,11
+Turismo,Tracción mecánica (combustión),Hyundai,Desconocido,6568-KJF,Decreto Nº 05/07/2019,Parque Móvil de la Alcaldía (falta dar alta en rectificación),Desconocido,Desconocida,Desconocida

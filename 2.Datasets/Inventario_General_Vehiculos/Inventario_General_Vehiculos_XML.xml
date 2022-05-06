@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehiculos>
+	<vehiculo vehiculoID="5865-CGW">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Audi</marcaVehiculo>
+		<modeloVehiculo>A6 2.8 Quatro</modeloVehiculo>
+		<matriculaVehiculo>5865-CGW</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Parque Móvil de la Alcaldía</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>21/4/1999</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>22</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5609-GVR">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Laguna 2.0 Dci Dynamique To</modeloVehiculo>
+		<matriculaVehiculo>5609-GVR</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Parque Móvil de la Alcaldía</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/4/2010</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>11</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4189-DTH">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X 9 250</modeloVehiculo>
+		<matriculaVehiculo>4189-DTH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protocolo</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/12/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4158-DTH">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X 9 125</modeloVehiculo>
+		<matriculaVehiculo>4158-DTH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protocolo</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/12/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="6088-GWG">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>Burgman 200</modeloVehiculo>
+		<matriculaVehiculo>6088-GWG</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protocolo</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>10/5/2010</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>11</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-9495-J">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Man</marcaVehiculo>
+		<modeloVehiculo>8163 Lc</modeloVehiculo>
+		<matriculaVehiculo>CU-9495-J</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>17/6/1999</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>22</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-8780-A">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Pegaso</marcaVehiculo>
+		<modeloVehiculo>Autobomba 1090</modeloVehiculo>
+		<matriculaVehiculo>CU-8780-A</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/8/1975</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>46</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-50632-VE">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Dg 330T 19 Tm</modeloVehiculo>
+		<matriculaVehiculo>CU-50632-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>11/1/1991</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>30</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-2154-H">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>G230.20 20 Tm</modeloVehiculo>
+		<matriculaVehiculo>CU-2154-H</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/3/1993</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>28</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2559-CXH">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Iveco</marcaVehiculo>
+		<modeloVehiculo>Ml 180 E 27</modeloVehiculo>
+		<matriculaVehiculo>2559-CXH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>21/6/2004</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>17</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7918-GBC">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mercedes</marcaVehiculo>
+		<modeloVehiculo>Benz 1529 Af</modeloVehiculo>
+		<matriculaVehiculo>7918-GBC</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>20/2/2008</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>13</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4710-FLB">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Toyota</marcaVehiculo>
+		<modeloVehiculo>Land Cruiser D-4D</modeloVehiculo>
+		<matriculaVehiculo>4710-FLB</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>5/2/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1086-FWY">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Toyota</marcaVehiculo>
+		<modeloVehiculo>Hilux</modeloVehiculo>
+		<matriculaVehiculo>1086-FWY</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/10/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2041-FSS">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Toyota</marcaVehiculo>
+		<modeloVehiculo>Hi-2P</modeloVehiculo>
+		<matriculaVehiculo>2041-FSS</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Bomberos</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>10/7/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-0424-K">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>Pick Up 2.5 Tdi Chasis</modeloVehiculo>
+		<matriculaVehiculo>CU-0424-K</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protección Civil</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/7/1999</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>22</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-5299-D">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>Sj 410 Ht</modeloVehiculo>
+		<matriculaVehiculo>CU-5299-D</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protección Civil</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/8/1985</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>36</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-6795-H">
+		<claseVehiculo>Furgón</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Volkswagen</marcaVehiculo>
+		<modeloVehiculo>Kombi 1.9 D 5 V</modeloVehiculo>
+		<matriculaVehiculo>CU-6795-H</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protección Civil</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>3/6/1994</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>27</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3130-BPY">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Master Fg</modeloVehiculo>
+		<matriculaVehiculo>3130-BPY</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Protección Civil</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>3/12/2001</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>20</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7011-BBD">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>C-15 Top Familiar</modeloVehiculo>
+		<matriculaVehiculo>7011-BBD</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Brigada M. Ambiente de Limpieza)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/9/2000</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>21</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-5190-J">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Iveco</marcaVehiculo>
+		<modeloVehiculo>Ml 30 E 23</modeloVehiculo>
+		<matriculaVehiculo>CU-5190-J</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Brigada M. Ambiente de Limpieza)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>16/10/1998</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>23</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1387-DSY">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter 1.9D Chasis Cabina 2P</modeloVehiculo>
+		<matriculaVehiculo>1387-DSY</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Brigada M. Ambiente de Limpieza)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/11/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5420-DPF">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>5420-DPF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Subcapataz de Medioambiente)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>25/8/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="9978-CHL">
+		<claseVehiculo>Furgón</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mitsubishi</marcaVehiculo>
+		<modeloVehiculo>L-200</modeloVehiculo>
+		<matriculaVehiculo>9978-CHL</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Parques y Jardines)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/5/2003</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>18</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-57481-VE">
+		<claseVehiculo>Dumper</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa</marcaVehiculo>
+		<modeloVehiculo>1503</modeloVehiculo>
+		<matriculaVehiculo>CU-57481-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Parques y Jardines)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>15/12/1998</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>23</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5426-DPF">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>5426-DPF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio de Medioambiente (Parques y Jardines)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>25/8/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-6273-G">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Land-Rover</marcaVehiculo>
+		<modeloVehiculo>Defender 90 2.2 T</modeloVehiculo>
+		<matriculaVehiculo>CU-6273-G</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Instituto Municipal de Deportes (I.M.D.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>10/1/1992</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>29</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-54478-VE">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa</marcaVehiculo>
+		<modeloVehiculo>Dumper Multitrans Dv</modeloVehiculo>
+		<matriculaVehiculo>CU-54478-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Instituto Municipal de Deportes (I.M.D.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>2/7/1996</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>25</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="MU-31441-VE">
+		<claseVehiculo>Motocultor</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Pacuali</marcaVehiculo>
+		<modeloVehiculo>996</modeloVehiculo>
+		<matriculaVehiculo>MU-31441-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Instituto Municipal de Deportes (I.M.D.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>1/10/1978</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>43</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-00863-R">
+		<claseVehiculo>Semi-remolque</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Horizonte</marcaVehiculo>
+		<modeloVehiculo>Pch-2000-1</modeloVehiculo>
+		<matriculaVehiculo>CU-00863-R</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Instituto Municipal de Deportes (I.M.D.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>26/9/1989</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>32</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7882-DPR">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>7882-DPR</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Gerencia Municipal de Urbanismo (G.M.U.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/9/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="9528-GJW">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>Burgman 200</modeloVehiculo>
+		<matriculaVehiculo>9528-GJW</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Gerencia Municipal de Urbanismo (G.M.U.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>5/12/2008</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>13</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3197-GLS">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>Np 300 4X4 2.5 Ddti</modeloVehiculo>
+		<matriculaVehiculo>3197-GLS</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Montes (cedido a Ayuntamiento de Cuenca Maderas. S.A.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>3/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-54477-VE">
+		<claseVehiculo>Dumper</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa-Mustang</marcaVehiculo>
+		<modeloVehiculo>Pala Minicargadora 20</modeloVehiculo>
+		<matriculaVehiculo>CU-54477-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>2/7/1996</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>25</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-54479-VE">
+		<claseVehiculo>Minicargadora</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa-Mustang</marcaVehiculo>
+		<modeloVehiculo>Pala Minicargadora 20</modeloVehiculo>
+		<matriculaVehiculo>CU-54479-VE</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>2/7/1996</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>25</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-5208-I">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>M-11. 14</modeloVehiculo>
+		<matriculaVehiculo>CU-5208-I</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>9/9/1996</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>25</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-8526-F">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Dg 220.2020 Tm</modeloVehiculo>
+		<matriculaVehiculo>CU-8526-F</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>13/7/1990</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>31</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-5921-G">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Opel</marcaVehiculo>
+		<modeloVehiculo>Corsa 1.4 Gl</modeloVehiculo>
+		<matriculaVehiculo>CU-5921-G</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>11/12/1991</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>30</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2264-BRV">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Iveco</marcaVehiculo>
+		<modeloVehiculo>Ml 120 E 18</modeloVehiculo>
+		<matriculaVehiculo>2264-BRV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>17/1/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-8393-BBV">
+		<claseVehiculo>Dumper</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa</marcaVehiculo>
+		<modeloVehiculo>Dv 17</modeloVehiculo>
+		<matriculaVehiculo>E-8393-BBV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/1/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3322-BRJ">
+		<claseVehiculo>Furgón-Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mitsubishi</marcaVehiculo>
+		<modeloVehiculo>L 200</modeloVehiculo>
+		<matriculaVehiculo>3322-BRJ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>20/12/2001</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>20</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4659-CCV">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>4659-CCV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>20/12/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-1050-BCD">
+		<claseVehiculo>Dumper</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ausa-Mustang</marcaVehiculo>
+		<modeloVehiculo>Dv 17</modeloVehiculo>
+		<matriculaVehiculo>E-1050-BCD</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>7/1/2003</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>18</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2471-FKK">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>Prismastar 1.9 Dci 3098/7780 Co</modeloVehiculo>
+		<matriculaVehiculo>2471-FKK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="6158-FMZ">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>6158-FMZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/3/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="0716-DFC">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Kangoo 1.9</modeloVehiculo>
+		<matriculaVehiculo>0716-DFC</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/12/2004</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>17</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2233-DLZ">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D  Combi</modeloVehiculo>
+		<matriculaVehiculo>2233-DLZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>23/6/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-4757-I">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Land-Rover</marcaVehiculo>
+		<modeloVehiculo>Defender 90 2.5 T</modeloVehiculo>
+		<matriculaVehiculo>CU-4757-I</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Obras (Vehículo usos varios)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>18/7/1996</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>25</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-2943-K">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mitsubishi</marcaVehiculo>
+		<modeloVehiculo>L-200 2.5 Tdi Jac</modeloVehiculo>
+		<matriculaVehiculo>CU-2943-K</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Tráfico y Equipamiento Urbano</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/12/1999</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>22</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-4205-K">
+		<claseVehiculo>Furgón</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Peugeot</marcaVehiculo>
+		<modeloVehiculo>Boxer 1.8 350 L Td C</modeloVehiculo>
+		<matriculaVehiculo>CU-4205-K</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Municipal de Tráfico y Equipamiento Urbano</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/3/2000</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>21</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4425-FGV">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X8 125</modeloVehiculo>
+		<matriculaVehiculo>4425-FGV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Agentes de Movilidad</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>24/10/2006</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>15</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4471- FGV">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X8 125</modeloVehiculo>
+		<matriculaVehiculo>4471- FGV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Agentes de Movilidad</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>24/10/2006</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>15</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1601-DCL">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Jumpy 2.0</modeloVehiculo>
+		<matriculaVehiculo>1601-DCL</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Agentes de Movilidad</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>8/11/2004</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>17</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1294-CZL">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X9 500 4T</modeloVehiculo>
+		<matriculaVehiculo>1294-CZL</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>25/8/2004</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>17</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1308-CZL">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X9 500 4T</modeloVehiculo>
+		<matriculaVehiculo>1308-CZL</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>25/8/2004</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>17</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1120-DRV">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X-9 500</modeloVehiculo>
+		<matriculaVehiculo>1120-DRV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>24/10/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1153-DRV">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Vespa X-9 500</modeloVehiculo>
+		<matriculaVehiculo>1153-DRV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>24/10/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2312-FYD">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Toyota</marcaVehiculo>
+		<modeloVehiculo>Land Cruiser La Hdj</modeloVehiculo>
+		<matriculaVehiculo>2312-FYD</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>10/12/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7440-DZD">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ford</marcaVehiculo>
+		<modeloVehiculo>Fiesta 1.4 Tdci Ambiente</modeloVehiculo>
+		<matriculaVehiculo>7440-DZD</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>8/5/2006</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>15</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2591-BMF">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>Patrol Gr. 3.0 Di Td Confort 5P</modeloVehiculo>
+		<matriculaVehiculo>2591-BMF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>13/8/2001</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>20</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4152-FVX">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Seat</marcaVehiculo>
+		<modeloVehiculo>Altea Xl</modeloVehiculo>
+		<matriculaVehiculo>4152-FVX</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>26/9/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="9846-GDZ">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>C4</modeloVehiculo>
+		<matriculaVehiculo>9846-GDZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/5/2008</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>13</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="6157-FLJ">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Opel</marcaVehiculo>
+		<modeloVehiculo>Corsa</modeloVehiculo>
+		<matriculaVehiculo>6157-FLJ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>15/2/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5806-DNY">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>Burgman V-125</modeloVehiculo>
+		<matriculaVehiculo>5806-DNY</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local (SE ADJUDICA AL SERV. OBRAS)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>11/8/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="2024-BWG">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>C-15 D Top</modeloVehiculo>
+		<matriculaVehiculo>2024-BWG</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Lacero</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>20/5/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5405-DPF">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>5405-DPF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Eléctrico</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>25/8/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="9434-CJX">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Opel</marcaVehiculo>
+		<modeloVehiculo>Combo 1.7 DI VAN</modeloVehiculo>
+		<matriculaVehiculo>9434-CJX</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Eléctrico</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>27/6/2003</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>18</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5454-GMB">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo HDI 75 X</modeloVehiculo>
+		<matriculaVehiculo>5454-GMB</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Eléctrico</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1982-DLZ">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>Berlingo 1.9 D COMBI</modeloVehiculo>
+		<matriculaVehiculo>1982-DLZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Servicio Eléctrico</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>23/6/2005</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>16</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="B">
+		<claseVehiculo>Bicicletas (48)</claseVehiculo>
+		<tipoTraccionVehiculo>Desconocido</tipoTraccionVehiculo>
+		<marcaVehiculo></marcaVehiculo>
+		<modeloVehiculo>Desconocido</modeloVehiculo>
+		<matriculaVehiculo>B</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Sin Destino</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>Desconocida</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>Desconocida</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1075-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Yamaha</marcaVehiculo>
+		<modeloVehiculo>DG20/1/1. WR250</modeloVehiculo>
+		<matriculaVehiculo>1075-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1136-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>WC80/1/2. UH125</modeloVehiculo>
+		<matriculaVehiculo>1136-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1227-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Rieju</marcaVehiculo>
+		<modeloVehiculo>DG20/I/I. Tango 125</modeloVehiculo>
+		<matriculaVehiculo>1227-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1337-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Suzuki</marcaVehiculo>
+		<modeloVehiculo>WC80/1/2. UH125</modeloVehiculo>
+		<matriculaVehiculo>1337-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3056-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Rieju</marcaVehiculo>
+		<modeloVehiculo>TGE4/0/0. Tango 125</modeloVehiculo>
+		<matriculaVehiculo>3056-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3210-KGK">
+		<claseVehiculo>Motocicleta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Yamaha</marcaVehiculo>
+		<modeloVehiculo>DG20/0/0. WR250</modeloVehiculo>
+		<matriculaVehiculo>3210-KGK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2017</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>4</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="0536-HGM">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mercedes-Benz</marcaVehiculo>
+		<modeloVehiculo>Unimog</modeloVehiculo>
+		<matriculaVehiculo>0536-HGM</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 9/04/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Bomberos y Protección Civil</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>9/4/2018</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>3</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="6581-KJP">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Opel</marcaVehiculo>
+		<modeloVehiculo>Combo VAN</modeloVehiculo>
+		<matriculaVehiculo>6581-KJP</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Desconocido</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Instituto Municipal de Deportes (I.M.D.)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>27/3/2018</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>3</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="4717-HMP">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Megane Scenic</modeloVehiculo>
+		<matriculaVehiculo>4717-HMP</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Decreto nº2018006353</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Agentes de Movilidad</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>19/10/2012</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>9</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1680-HLP">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Citroën</marcaVehiculo>
+		<modeloVehiculo>C4</modeloVehiculo>
+		<matriculaVehiculo>1680-HLP</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Decreto nº2018006353</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Agentes de Movilidad</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>16/7/2012</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>9</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="3510-FKL">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mercedes-Benz</marcaVehiculo>
+		<modeloVehiculo>U400</modeloVehiculo>
+		<matriculaVehiculo>3510-FKL</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>4669.37</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>16/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5633-FLH">
+		<claseVehiculo>Cuatriciclo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (eléctrica)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mega</marcaVehiculo>
+		<modeloVehiculo>Fourgon</modeloVehiculo>
+		<matriculaVehiculo>5633-FLH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/2/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5670-FLH">
+		<claseVehiculo>Cuatriciclo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (eléctrica)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mega</marcaVehiculo>
+		<modeloVehiculo>Fourgon</modeloVehiculo>
+		<matriculaVehiculo>5670-FLH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>14/2/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8117-FWH">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Iveco</marcaVehiculo>
+		<modeloVehiculo>35S12</modeloVehiculo>
+		<matriculaVehiculo>8117-FWH</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>3894.54</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>8/10/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8565-FJF">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Nissan</marcaVehiculo>
+		<modeloVehiculo>Interstar</modeloVehiculo>
+		<matriculaVehiculo>8565-FJF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>3441.23</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>4/12/2006</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>15</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8885-FKD">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Iveco</marcaVehiculo>
+		<modeloVehiculo>ML150E22</modeloVehiculo>
+		<matriculaVehiculo>8885-FKD</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>4/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-6883-BDV">
+		<claseVehiculo>Barredora</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Scarab</marcaVehiculo>
+		<modeloVehiculo>Minor</modeloVehiculo>
+		<matriculaVehiculo>E-6883-BDV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-6884-BDV">
+		<claseVehiculo>Barredora</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Scarab</marcaVehiculo>
+		<modeloVehiculo>Minor</modeloVehiculo>
+		<matriculaVehiculo>E-6884-BDV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>12/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-7509-BDV">
+		<claseVehiculo>Barredora</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Schmidt</marcaVehiculo>
+		<modeloVehiculo>Swingo 100</modeloVehiculo>
+		<matriculaVehiculo>E-7509-BDV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>16/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-9723-BDV">
+		<claseVehiculo>Vehículo especial</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Kramer</marcaVehiculo>
+		<modeloVehiculo>CMAR</modeloVehiculo>
+		<matriculaVehiculo>E-9723-BDV</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>2496</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>26/1/2007</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>14</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1226-GMT">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Toyota</marcaVehiculo>
+		<modeloVehiculo>Desconocido</modeloVehiculo>
+		<matriculaVehiculo>1226-GMT</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>4220.66</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>9/6/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1720-BEB">
+		<claseVehiculo>Volquete</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter Diesel</modeloVehiculo>
+		<matriculaVehiculo>1720-BEB</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>10/5/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1765-GLZ">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Kangoo 1.5</modeloVehiculo>
+		<matriculaVehiculo>1765-GLZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>3558.89</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="1879-GLZ">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Kangoo 1.5</modeloVehiculo>
+		<matriculaVehiculo>1879-GLZ</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>2635.11</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="5490-CBB">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter</modeloVehiculo>
+		<matriculaVehiculo>5490-CBB</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>11/10/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7262-BZY">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter</modeloVehiculo>
+		<matriculaVehiculo>7262-BZY</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>8/10/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="7704-GPK">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (eléctrica)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter</modeloVehiculo>
+		<matriculaVehiculo>7704-GPK</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>4/9/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8293-GNP">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mercedes-Benz</marcaVehiculo>
+		<modeloVehiculo>1518</modeloVehiculo>
+		<matriculaVehiculo>8293-GNP</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1500</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>21/7/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8369-GNP">
+		<claseVehiculo>Camión</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Mercedes-Benz</marcaVehiculo>
+		<modeloVehiculo>1318KLO</modeloVehiculo>
+		<matriculaVehiculo>8369-GNP</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>4883.38</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>21/7/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-1209-J">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter</modeloVehiculo>
+		<matriculaVehiculo>CU-1209-J</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>15/1/1998</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>23</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="CU-1210-J">
+		<claseVehiculo>Furgoneta</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Piaggio</marcaVehiculo>
+		<modeloVehiculo>Porter</modeloVehiculo>
+		<matriculaVehiculo>CU-1210-J</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>15/1/1998</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>23</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-3626-BFM">
+		<claseVehiculo>Vehículo especial</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Marca-Desconocida</marcaVehiculo>
+		<modeloVehiculo>ECOLOGICA SV.1.1 BARREDORA</modeloVehiculo>
+		<matriculaVehiculo>E-3626-BFM</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>3648</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>6/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-5998-BFM">
+		<claseVehiculo>Vehículo especial</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Schmidt</marcaVehiculo>
+		<modeloVehiculo>S4D1P</modeloVehiculo>
+		<matriculaVehiculo>E-5998-BFM</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>3648</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>29/4/2009</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>12</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="E-6118-BCB">
+		<claseVehiculo>Vehículo especial</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ravo</marcaVehiculo>
+		<modeloVehiculo>340 CD</modeloVehiculo>
+		<matriculaVehiculo>E-6118-BCB</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>1920</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>8/10/2002</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>19</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="M-7923-VF">
+		<claseVehiculo>Vehículo especial</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Renault</marcaVehiculo>
+		<modeloVehiculo>Express 1.9 D</modeloVehiculo>
+		<matriculaVehiculo>M-7923-VF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 22/10/2018</tituloAdquisicionVehiculo>
+		<destinoVehiculo>FCC- Concesionaria Servicio Limpieza y Recogida de residuos</destinoVehiculo>
+		<costeAdquisicionVehiculo>2111.8</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>7/11/1997</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>24</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="9503-HBC">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ford</marcaVehiculo>
+		<modeloVehiculo>Kuga</modeloVehiculo>
+		<matriculaVehiculo>9503-HBC</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 04/03/2019</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>9000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>30/11/2011</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>10</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="8815-HHG">
+		<claseVehiculo>Todo Terreno</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Ford</marcaVehiculo>
+		<modeloVehiculo>Kuga</modeloVehiculo>
+		<matriculaVehiculo>8815-HHG</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Acuerdo JGL 04/03/2019</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Policía Local</destinoVehiculo>
+		<costeAdquisicionVehiculo>13000</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>28/12/2010</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>11</antiguedadVehiculo>
+	</vehiculo>
+
+	<vehiculo vehiculoID="6568-KJF">
+		<claseVehiculo>Turismo</claseVehiculo>
+		<tipoTraccionVehiculo>Tracción mecánica (combustión)</tipoTraccionVehiculo>
+		<marcaVehiculo>Hyundai</marcaVehiculo>
+		<modeloVehiculo>Desconocido</modeloVehiculo>
+		<matriculaVehiculo>6568-KJF</matriculaVehiculo>
+		<tituloAdquisicionVehiculo>Decreto Nº 05/07/2019</tituloAdquisicionVehiculo>
+		<destinoVehiculo>Parque Móvil de la Alcaldía (falta dar alta en rectificación)</destinoVehiculo>
+		<costeAdquisicionVehiculo>Desconocido</costeAdquisicionVehiculo>
+		<fechaMatriculaciónVehiculo>Desconocida</fechaMatriculaciónVehiculo>
+		<antiguedadVehiculo>Desconocida</antiguedadVehiculo>
+	</vehiculo>
+</vehiculos>
+
