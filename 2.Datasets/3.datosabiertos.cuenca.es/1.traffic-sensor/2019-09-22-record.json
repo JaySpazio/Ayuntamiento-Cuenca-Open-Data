@@ -1,0 +1,29 @@
+{
+	"fields":  [{"type":"int","id":"_id"},{"type":"int","id":"hash"},{"type":"timestamp","id":"fecha"},{"type":"double","id":"latitude"},{"type":"double","id":"longitude"},{"type":"text","id":"sensor_id"},{"type":"text","id":"description"},{"type":"int","id":"light_vehicles"},{"type":"int","id":"heavy_vehicles"}],
+	"records": [
+		{"_id":39678,"hash":-1794821997,"timestamp":"2019-09-22 00:16:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":75,"heavy_vehicles":4},
+		{"_id":39711,"hash":1094976218,"timestamp":"2019-09-22 01:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":77,"heavy_vehicles":1},
+		{"_id":39746,"hash":1700559327,"timestamp":"2019-09-22 02:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":39,"heavy_vehicles":1},
+		{"_id":39784,"hash":833745290,"timestamp":"2019-09-22 03:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":63,"heavy_vehicles":3},
+		{"_id":39829,"hash":-660361683,"timestamp":"2019-09-22 04:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":30,"heavy_vehicles":1},
+		{"_id":39855,"hash":-63286723,"timestamp":"2019-09-22 05:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":28,"heavy_vehicles":0},
+		{"_id":39885,"hash":-1557526726,"timestamp":"2019-09-22 06:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":56,"heavy_vehicles":0},
+		{"_id":39928,"hash":1853974121,"timestamp":"2019-09-22 07:18:50","latitude":40.069802,"longitude":-2.1362,"description":"Fermín Caballero - Hnos Becerril","sensor_id":"SEN-TRAF-29","light_vehicles":85,"heavy_vehicles":3},
+		{"_id":41629,"hash":1473200173,"timestamp":"2019-09-22 00:06:47","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":40,"heavy_vehicles":2},
+		{"_id":41656,"hash":1349051391,"timestamp":"2019-09-22 00:06:47","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":29,"heavy_vehicles":2},
+		{"_id":41670,"hash":704987222,"timestamp":"2019-09-22 01:06:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":30,"heavy_vehicles":3},
+		{"_id":41697,"hash":580839523,"timestamp":"2019-09-22 01:06:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":26,"heavy_vehicles":3},
+		{"_id":41702,"hash":710280502,"timestamp":"2019-09-22 02:06:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":22,"heavy_vehicles":2},
+		{"_id":41732,"hash":586131732,"timestamp":"2019-09-22 02:06:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":22,"heavy_vehicles":2},
+		{"_id":41733,"hash":-156393216,"timestamp":"2019-09-22 03:06:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":29,"heavy_vehicles":1},
+		{"_id":41774,"hash":-1040270164,"timestamp":"2019-09-22 04:06:53","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":27,"heavy_vehicles":2},
+		{"_id":41776,"hash":-280541795,"timestamp":"2019-09-22 03:06:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":21,"heavy_vehicles":0},
+		{"_id":41796,"hash":-1164418544,"timestamp":"2019-09-22 04:06:53","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":18,"heavy_vehicles":1},
+		{"_id":41809,"hash":-1090074330,"timestamp":"2019-09-22 05:08:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":44,"heavy_vehicles":5},
+		{"_id":41827,"hash":-1839570464,"timestamp":"2019-09-22 06:08:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":82,"heavy_vehicles":9},
+		{"_id":41835,"hash":-1214222758,"timestamp":"2019-09-22 05:08:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":28,"heavy_vehicles":1},
+		{"_id":41858,"hash":961118605,"timestamp":"2019-09-22 07:08:48","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":106,"heavy_vehicles":8},
+		{"_id":41876,"hash":-1963719086,"timestamp":"2019-09-22 06:08:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":56,"heavy_vehicles":5},
+		{"_id":41896,"hash":837008665,"timestamp":"2019-09-22 07:08:48","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":59,"heavy_vehicles":8}
+	]
+}

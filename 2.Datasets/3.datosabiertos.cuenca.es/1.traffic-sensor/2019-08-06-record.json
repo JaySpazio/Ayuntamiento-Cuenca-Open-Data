@@ -1,0 +1,9 @@
+{
+	"fields":  [{"type":"int","id":"_id"},{"type":"int","id":"hash"},{"type":"timestamp","id":"fecha"},{"type":"double","id":"latitude"},{"type":"double","id":"longitude"},{"type":"text","id":"sensor_id"},{"type":"text","id":"description"},{"type":"int","id":"light_vehicles"},{"type":"int","id":"heavy_vehicles"}],
+	"records": [
+		{"_id":102,"hash":-101416199,"timestamp":"2019-08-06 14:39:34","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":0,"heavy_vehicles":0},
+		{"_id":114,"hash":-225563873,"timestamp":"2019-08-06 14:39:34","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":0,"heavy_vehicles":0},
+		{"_id":144,"hash":-1507640680,"timestamp":"2019-08-06 15:41:20","latitude":40.070053,"longitude":-2.13637,"description":"Fermín C-Hurtado M","sensor_id":"SEN-TRAF-01-C2","light_vehicles":0,"heavy_vehicles":0},
+		{"_id":146,"hash":-1631789225,"timestamp":"2019-08-06 15:41:20","latitude":40.069982,"longitude":-2.136154,"description":"Fermín C-Cervantes","sensor_id":"SEN-TRAF-01-C1","light_vehicles":0,"heavy_vehicles":0}
+	]
+}

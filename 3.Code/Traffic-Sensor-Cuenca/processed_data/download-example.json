@@ -1,0 +1,17 @@
+{
+    "help": "https://datosabiertos.cuenca.es/api/3/action/help_show?name=datastore_search", 
+    "success": true, 
+    "result": {
+        "total_was_estimated": false, 
+        "include_total": true, 
+        "resource_id": "74a58122-630d-49ef-a160-af53a0add1bb", 
+        "fields": [{"type": "int", "id": "_id"}, {"type": "numeric", "id": "latitud"}, {"type": "timestamp", "id": "fecha"}, {"type": "numeric", "id": "longitud"}, {"type": "text", "id": "descripcion"}, {"type": "text", "id": "nombre"}, {"type": "int4", "id": "ligeros"}, {"type": "int4", "id": "pesados"}, {"type": "float", "id": "rank"}], 
+        "records_format": "objects", 
+        "q": "2019-08-01", 
+        "records": [{"_id":19,"latitud":40.069982,"fecha":"2019-08-01T07:25:21","longitud":-2.136154,"descripcion":"Fermín C-Cervantes","nombre":"SEN-TRAF-01-C1","ligeros":0,"pesados":0,"rank":0.21156152},{"_id":32,"latitud":40.070053,"fecha":"2019-08-01T07:25:21","longitud":-2.13637,"descripcion":"Fermín C-Hurtado M","nombre":"SEN-TRAF-01-C2","ligeros":17,"pesados":1,"rank":0.21156152},{"_id":70,"latitud":40.070053,"fecha":"2019-08-01T08:25:34","longitud":-2.13637,"descripcion":"Fermín C-Hurtado M","nombre":"SEN-TRAF-01-C2","ligeros":18,"pesados":0,"rank":0.21156152},{"_id":72,"latitud":40.069982,"fecha":"2019-08-01T08:25:34","longitud":-2.136154,"descripcion":"Fermín C-Cervantes","nombre":"SEN-TRAF-01-C1","ligeros":7,"pesados":0,"rank":0.21156152}], 
+        "limit": 100, 
+        "_links": {"start": "/api/3/action/datastore_search?q=2019-08-01&resource_id=74a58122-630d-49ef-a160-af53a0add1bb", "next": "/api/3/action/datastore_search?q=2019-08-01&offset=100&resource_id=74a58122-630d-49ef-a160-af53a0add1bb"}, 
+        "total": 4, 
+        "total_estimation_threshold": null
+    }
+}
